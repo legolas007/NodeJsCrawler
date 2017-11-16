@@ -1,0 +1,21 @@
+{
+  "name": "zhihu",
+  "version": "1.0.0",
+  "description": "zhihu crawler",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zhihu"
+  ],
+  "author": "Usher",
+  "license": "ISC",
+  "devDependencies": {
+    "bluebird": "^3.5.1",
+    "bluebird-retry": "^0.11.0",
+    "mongodb": "^2.2.33",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
